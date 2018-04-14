@@ -2,6 +2,8 @@
 
 Steps to run the project after clonning
 
-- npm install
+- Cd AuctionPlatform
+- Run command "npm install"
 - Ensure connection string
+- Run command "Update-Database"
 - dotnet run
